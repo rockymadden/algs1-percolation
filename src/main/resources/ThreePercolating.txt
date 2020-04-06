@@ -1,0 +1,6 @@
+3
+open 1 1
+open 2 2
+open 3 3
+open 2 1
+open 3 2

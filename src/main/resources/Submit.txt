@@ -1,0 +1,9 @@
+4
+isOpen 1 1
+isFull 1 1
+open 1 1
+isOpen 1 1
+isFull 1 1
+open 2 2
+open 3 3
+open 2 1
